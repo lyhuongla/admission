@@ -1,2 +1,3 @@
-# admission
+# administration
  Admin 
+director
